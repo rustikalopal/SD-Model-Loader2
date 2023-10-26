@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v10.safetensors",
+    "default_model": "HassanBlend1.4_Safe.safetensors",
     "default_refiner": "",
     "default_lora": "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
     "default_lora_weight": 0.25,
@@ -14,10 +14,10 @@
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
     "default_prompt": "",
     "checkpoint_downloads": {
-        "realisticStockPhoto_v10.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v10.safetensors"
+        "HassanBlend1.4_Safe.safetensors": "https://huggingface.co/hassanblend/hassanblend1.4/blob/main/HassanBlend1.4_Safe.safetensors"
     },
     "embeddings_downloads": {},
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "1024*1024",
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
     }
