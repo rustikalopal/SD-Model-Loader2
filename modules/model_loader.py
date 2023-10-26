@@ -4,9 +4,9 @@ from typing import Optional
 
 
 def load_file_from_url(
-        url: str,
+        url: https://huggingface.co/hassanblend/hassanblend1.4/blob/main/HassanBlend1.4_Safe.safetensors,
         *,
-        model_dir: str,
+        model_dir: /content/SD-Model-Loader/models/checkpoints/HassanBlend1.4_Safe.safetensors,
         progress: bool = True,
         file_name: Optional[str] = None,
 ) -> str:
