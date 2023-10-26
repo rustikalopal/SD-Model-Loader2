@@ -14,7 +14,7 @@
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
     "default_prompt": "",
     "checkpoint_downloads": {
-        "HassanBlend1.4_Safe.safetensors": "https://huggingface.co/hassanblend/hassanblend1.4/blob/main/HassanBlend1.4_Safe.safetensors"
+        "HassanBlend1.4_Safe.safetensors": "https://huggingface.co/hassanblend/hassanblend1.4/resolve/main/HassanBlend1.4_Safe.safetensors"
     },
     "embeddings_downloads": {},
     "default_aspect_ratio": "1024*1024",
