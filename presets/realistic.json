@@ -20,6 +20,6 @@
     "default_aspect_ratio": "1024*1024",
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-        "GodPussy1v3.safetensors": "https://huggingface.co/SZKKCHI/GodPussy1_v3/resolve/main/GodPussy1%20v3.safetensors"
+        "HassanBlend1.4_Safe.safetensors": "https://huggingface.co/hassanblend/hassanblend1.4/resolve/main/HassanBlend1.4_Safe.safetensors"
     }
 }
