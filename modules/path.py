@@ -135,12 +135,12 @@ default_prompt = get_config_item_or_set_default(
 )
 default_advanced_checkbox = get_config_item_or_set_default(
     key='default_advanced_checkbox',
-    default_value=False,
+    default_value=True,
     validator=lambda x: isinstance(x, bool)
 )
 default_image_number = get_config_item_or_set_default(
     key='default_image_number',
-    default_value=2,
+    default_value=4,
     validator=lambda x: isinstance(x, int) and x >= 1 and x <= 32
 )
 checkpoint_downloads = get_config_item_or_set_default(
