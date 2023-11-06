@@ -54,7 +54,7 @@ def generate_clicked(*args):
 reload_javascript()
 
 shared.gradio_root = gr.Blocks(
-    title=f'Fooocus {fooocus_version.version} ' + ('' if args_manager.args.preset is None else args_manager.args.preset),
+    title=f'Unstable Diffusion',
     css=modules.html.css).queue()
 
 with shared.gradio_root:
