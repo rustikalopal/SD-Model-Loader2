@@ -20,7 +20,6 @@
     "default_aspect_ratio": "1024*1024",
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-        "NSFW_POV_AllInOne_LORA_SDXL.safetensors": "https://huggingface.co/hanspeterjuergen/149769875198/resolve/main/149769875198.safetensors",
-        "LazyMixRealAmateur_v30b.safetensors": "https://huggingface.co/hanspeterjuergen/873624981287/resolve/main/873624981287.safetensors"
+        "NSFW_POV_AllInOne_LORA_SDXL.safetensors": "https://huggingface.co/hanspeterjuergen/149769875198/resolve/main/149769875198.safetensors"
     }
 }
