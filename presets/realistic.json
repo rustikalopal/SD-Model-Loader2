@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_version6Rundiffusion.safetensors",
+    "default_model": "sd_xl_base_1.0.safetensors",
     "default_refiner": "",
     "default_lora": "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
     "default_lora_weight": 0.4,
@@ -14,7 +14,7 @@
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label, artist tag, web adress, letters, tag",
     "default_prompt": "",
     "checkpoint_downloads": {
-        "juggernautXL_version6Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors"
+        "sd_xl_base_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     },
     "embeddings_downloads": {},
     "default_aspect_ratio": "1024*1024",
