@@ -14,7 +14,7 @@
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label, artist tag, web adress, letters, tag",
     "default_prompt": "",
     "checkpoint_downloads": {
-        "juggernautXL_version6Rundiffusion.safetensors": "juggernautXL_v6Rundiffusion.safetensors": "https://huggingface.co/frankjoshua/juggernautXL_version6Rundiffusion/resolve/main/juggernautXL_version6Rundiffusion.safetensors"
+        "juggernautXL_version6Rundiffusion.safetensors": "https://huggingface.co/frankjoshua/juggernautXL_version6Rundiffusion/resolve/main/juggernautXL_version6Rundiffusion.safetensors"
     },
     "embeddings_downloads": {},
     "default_aspect_ratio": "1024*1024",
