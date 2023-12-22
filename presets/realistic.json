@@ -1,5 +1,5 @@
 {
-    "default_model": "sd_xl_base_1.0.safetensors",
+    "default_model": "juggernautXL_version6Rundiffusion.safetensors",
     "default_refiner": "",
     "default_lora": "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
     "default_lora_weight": 0.4,
